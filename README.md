@@ -1,2 +1,2 @@
-# ctci
+# CTCI
 cracking the coding interview
